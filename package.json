@@ -16,3 +16,9 @@
     "bun-types": "^1.0.0"
   }
 }
+{
+  "scripts": {
+    "build": "node src/build.js",
+    "start": "node dist/server.js"
+  }
+}
